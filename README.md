@@ -1,2 +1,2 @@
 # spring-sample
-ss
+This is a sample project for spring boot
